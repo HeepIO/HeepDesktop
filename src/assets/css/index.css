@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+}
+
+.dragVertex {
+  color: #455A64;
+  stroke-width: 3;
+}
